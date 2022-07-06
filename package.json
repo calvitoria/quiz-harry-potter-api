@@ -1,0 +1,23 @@
+{
+  "name": "quiz-harry-potter-api",
+  "version": "1.0.0",
+  "description": "This is a harry potter quizz  API! Feel free to use it and dont forget to star this repository if you like it!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calvitoria/quiz-harry-potter-api.git"
+  },
+  "author": "calvitoria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calvitoria/quiz-harry-potter-api/issues"
+  },
+  "homepage": "https://github.com/calvitoria/quiz-harry-potter-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
