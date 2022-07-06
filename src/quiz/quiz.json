@@ -1,5 +1,4 @@
-{
-    "quiz": [
+[
         {
             "id": 0,
             "level": "Even a muggle would get it right",
@@ -84,5 +83,4 @@
             "incorrect_answers": ["Secrets of the Darkest Art", "Moste Potente Potions"],
             "correct_answer": "Magick Moste Evile"
         }
-    ]
-}
+]
