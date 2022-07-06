@@ -1,0 +1,88 @@
+{
+    "quiz": [
+        {
+            "id": 0,
+            "level": "Even a muggle would get it right",
+            "question": "Which Harry Potter word is now in the Oxford English Dictionary?",
+            "incorrect_answers": ["Hogwarts", "Voldemort"],
+            "correct_answer": "Muggle"
+        },
+        {
+            "id": 1,
+            "level": "Even a muggle would get it right",
+            "question": "Who were Harry's parents?",
+            "incorrect_answers": ["Henry and Maggie Potter", "William and Elizabeth Potter"],
+            "correct_answer": "James and Lily Potter"
+        },
+        {
+            "id": 2,
+            "level": "Even a muggle would get it right",
+            "question": "Who are the muggle aunt and uncle that Harry must live with every summer?",
+            "incorrect_answers": ["Ned and Camilla Diddly", "Ralph and Magnolia Dudley"],
+            "correct_answer": "Vernon and Petunia Dursley"
+        },
+        {
+            "id": 3,
+            "level": "If you like Harry Potter, I bet you can get this right",
+            "question": "In order of birth, who are the seven Weasley siblings?",
+            "incorrect_answers": ["Percy, Bill, George, Charlie, Fred, Ron, Ginny", "George, Fred, Percy, Bill, Charlie, Ron, Ginny"],
+            "correct_answer": "Bill, Charlie, Percy, Fred, George, Ron, Ginny"
+        },
+        {
+            "id": 4,
+            "level": "If you like Harry Potter, I bet you can get this right",
+            "question": "What are the three Unforgivable Curses?",
+            "incorrect_answers": ["Impedimenta, Incarcerous and Incendio", "Expelliarmus, Expecto Patronum and Diffindo"],
+            "correct_answer": "Avada Kedavra, Crucio and Imperio"
+        },
+        {
+            "id": 5,
+            "level": "If you like Harry Potter, I bet you can get this right",
+            "question": "Which of these Hogwarts professors teaches Transfiguration?",
+            "incorrect_answers": ["Snape", "Sprout"],
+            "correct_answer": "McGonagall"
+        },
+        {
+            "id": 6,
+            "level": "If you are a potterhead, this one is for you!",
+            "question": "Complete the sentence: 'I don't go looking for trouble,' said Harry, nettled. …",
+            "incorrect_answers": ["Trouble chases me", "It normally creeps up on me"],
+            "correct_answer": "Trouble usually finds me"
+        },
+        {
+            "id": 7,
+            "level": "If you are a potterhead, this one is for you!",
+            "question": "Complete the sentence: 'I'm not ill,' said Harry. 'I think it's a warning . . . it means…'",
+            "incorrect_answers": ["the end is near...", "Voldemort is near..."],
+            "correct_answer": "danger's comming..."
+        },
+        {
+            "id": 8,
+            "level": "If you are a potterhead, this one is for you!",
+            "question": "Which of these was not a book set by Gilderoy Lockhart on the second-year reading list?",
+            "incorrect_answers": ["Travels with Trolls", "Holidays with Hags"],
+            "correct_answer": "Gallivanting with Giants"
+        },
+        {
+            "id": 9,
+            "level": "Who are you?! Hermione Granger?",
+            "question": "Cassandra Vablatsky was the author of which Divination textbook?",
+            "incorrect_answers": ["Seeing the Unseeable", "Predictions and Prophecies"],
+            "correct_answer": "Unfogging the Future"
+        },
+        {
+            "id": 10,
+            "level": "Who are you?! Hermione Granger?",
+            "question": "When reading Quidditch Through the Ages Harry discovered that you could commit a foul in how many different ways?",
+            "incorrect_answers": ["250", "1896"],
+            "correct_answer": "700"
+        },
+        {
+            "id": 11,
+            "level": "Who are you?! Hermione Granger?",
+            "question": "What was the name of the only book that Hermione could find that mentioned Horcruxes?",
+            "incorrect_answers": ["Secrets of the Darkest Art", "Moste Potente Potions"],
+            "correct_answer": "Magick Moste Evile"
+        }
+    ]
+}
