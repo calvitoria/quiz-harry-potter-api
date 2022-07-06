@@ -4,7 +4,7 @@
   "description": "This is a harry potter quizz  API! Feel free to use it and dont forget to star this repository if you like it!",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
